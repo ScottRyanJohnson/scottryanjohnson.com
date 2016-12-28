@@ -4,7 +4,7 @@ html, body {
 
 .backgroundimage {
   text-align: center;
-  background-image:url('../images/space-bg.png');
+  background-image: url('images/space-bg.png');
   background-size: cover;
   height: 800px;
 }
