@@ -4,7 +4,7 @@ html, body {
 
 .backgroundimage {
   text-align: center;
-  background: url(http://i49.photobucket.com/albums/f280/619serb/NerdGuy.png);
+  background-image:url('../images/space-bg.png');
   background-size: cover;
   height: 800px;
 }
